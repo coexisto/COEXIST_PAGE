@@ -2,6 +2,19 @@ body{
     background-color: #1b1b1b;
 }
 
+body {
+    background-image: url('pp.jfif');
+    background-repeat: no-repeat;
+    background-size: ;
+
+  }
+
+
+  html { 
+    background: url(pp.jfif) no-repeat center center fixed; 
+    background-size: cover;
+  }
+
 
 .main_head{
     text-align: center;
